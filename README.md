@@ -7,10 +7,7 @@ A simple User Management System built with React for the frontend and Node.js wi
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [API Endpoints](#api-endpoints)
-- [Frontend](#frontend)
-- [Backend](#backend)
-- [License](#license)
+
 
 ## Features
 
